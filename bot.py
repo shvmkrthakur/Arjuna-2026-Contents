@@ -5,8 +5,8 @@ from telegram.ext import Application, CommandHandler, ContextTypes
 
 # ---------------- CONFIG ----------------
 BOT_TOKEN = "8411906260:AAFIbUICK2lzK3BQYUXoHEmZ7isc6CYCCqw"
-BACKUP_CHANNEL = "@arjunajeestore"
-MAIN_CHANNEL =  -1002941772949
+BACKUP_CHANNEL = -1002951192357
+MAIN_CHANNEL =  -1002921200840
 # ----------------------------------------
 
 logging.basicConfig(level=logging.INFO)
